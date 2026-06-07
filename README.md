@@ -208,11 +208,6 @@ ORDER BY 2 DESC
 
 ---
 
-## Contributing
-If you would like to contribute to this project, feel free to fork the repository, submit pull requests, or raise issues.
-
----
-
 
 ## Key Insights Generated
 
@@ -221,3 +216,9 @@ If you would like to contribute to this project, feel free to fork the repositor
 - Compared Spotify and YouTube streaming performance.
 - Analyzed track characteristics such as energy, danceability, and liveness.
 - Applied CTEs and window functions to solve advanced analytical problems.
+
+
+  ## Contributing
+If you would like to contribute to this project, feel free to fork the repository, submit pull requests, or raise issues.
+
+---
